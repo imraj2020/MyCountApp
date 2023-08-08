@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCountApp</string>
+    <string name="score_placeholder">0</string>
+</resources>
